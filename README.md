@@ -4,7 +4,7 @@
 This project focuses on analyzing HR data to uncover insights regarding employee attrition and performance.
 
 ## Data Source
-- **Source:** [Mock HR Data]
+- **Source:** [[Mock HR Data]([url](https://drive.google.com/drive/folders/1trllcOHXKDLadcR9hp2f0tjOG3DZc6SC))]
   
 ## Technical Documentation
 ### 1. Power Query (ETL Process)
@@ -17,7 +17,8 @@ I implemented a **Star Schema** to optimize performance.
 - **Fact Table:** `FactPerformanceRating`
 - **Dimension Tables:** `DimEmployee`, `DimDate`, `DimEducationLevel`, 'DimRatingLevel', 'DimSatisfiedLevel'
 
-![Data Model](./data_model.png)
+![Data Model](./data_model.png) 
+
 
 ### 3. DAX Measures (Samples)
 To provide deep insights, I wrote several custom DAX measures:
