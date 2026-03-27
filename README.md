@@ -17,7 +17,7 @@ I implemented a **Star Schema** to optimize performance.
 - **Fact Table:** `FactPerformanceRating`
 - **Dimension Tables:** `DimEmployee`, `DimDate`, `DimEducationLevel`, 'DimRatingLevel', 'DimSatisfiedLevel'
 
-![Data Model](./data_model.png) 
+[![Data Model](./data_model.png) ](https://github.com/nahiyanhossain2-design/HR-Analytics-Dashboard/blob/main/Data_Model.png)
 
 
 ### 3. DAX Measures (Samples)
